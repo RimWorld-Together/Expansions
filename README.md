@@ -1,5 +1,5 @@
 # RimWorld Together Expansions
-The official repository of the [RimWorld Together](https://github.com/Byte-Nova/Rimworld-Together) team, containing every official expanded compatibility with the rest of the game's mods.
+The official repository of for the [RimWorld Together](https://steamcommunity.com/sharedfiles/filedetails/?id=3005289691) mod, containing every official expanded compatibility with the rest of the game's mods.
 
 ## What is an expanded compatibility?
 The vast majority of mods will work on RimWorld Together out of the box, but some of them implement functionality that doesn't get synced with the rest of the players. Expansions make it so modders can add that functionality into the mod without much hassle. 
