@@ -19,4 +19,4 @@ Mods like [SOS2](https://steamcommunity.com/workshop/filedetails/?id=1909914131)
 | `Test` | Test |
 
 > [!NOTE]
-> Are you a fellow modder that wants to get its expansion listed in here? [Submit a pull request](https://github.com/RimWorld-Together/Expansions/pulls) so we can help you out!
+> Are you a fellow modder that wants to get its expansion listed in here? [Submit an issue](https://github.com/RimWorld-Together/Expansions/issues) so we can help you out!
